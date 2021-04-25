@@ -1,0 +1,44 @@
+[
+   {
+       "id" : 1,
+       "name" : "HP 15 Entry Level",
+       "RAM" : "4GB DDR4", 
+       "PROCESSOR" : "INTEL-5 6TH GENERATION", 
+       "HDD" : "1TB HDD", 
+       "OS" : "WINDOWS 10", 
+       "PRICE" : 42500
+   }, 
+
+    {
+        "id" : 2,
+        "name" : "LENOVO 18 SLIM 5",
+        "RAM" : "6GB DDR4", 
+        "PROCESSOR" : "INTEL-8 3TH GENERATION", 
+        "HDD" : "1TB HDD", 
+        "OS" : "WINDOWS 10", 
+        "PRICE" : 47567
+    },
+    
+    
+    {
+        "id" : 3,
+        "name" : "DELL INSPIRON 45T",
+        "RAM" : "8GB DDR4", 
+        "PROCESSOR" : "INTEL-7I 8TH GENERATION", 
+        "HDD" : "1TB HDD 120GB SSD", 
+        "OS" : "WINDOWS 10", 
+        "PRICE" : 50499
+    },
+    
+    
+    {
+        "id" : 4,
+        "name" : "ACER CARGO 8G",
+        "RAM" : "8GB DDR4", 
+        "PROCESSOR" : "INTEL-10i 9TH GENERATION", 
+        "HDD" : "1TB HDD 256GB SSD", 
+        "OS" : "WINDOWS 10", 
+        "PRICE" : 60199
+    } 
+
+]

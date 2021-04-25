@@ -1,0 +1,72 @@
+[
+    {
+        "id" : 1,
+        "name" : "SHIRT",
+        "imageUrl" : ""
+    },
+
+    {
+        "id" : 2,
+        "name" : "JEANS",
+        "imageUrl" : ""
+    },
+
+    {
+        "id" : 3,
+        "name" : "GLOVES",
+        "imageUrl" : ""
+
+    },
+
+    {
+        "id" : 4,
+        "name" : "CAP",
+        "imageUrl" : ""
+
+    },
+
+    {
+        "id" : 5,
+        "name" : "CAP",
+        "imageUrl" : ""
+    },
+
+    {   
+        "id" : 6,
+        "name" : "Hawaiian shirt",
+        "imageUrl" : ""
+    },
+
+    {
+        "id" : 7,
+        "name" : "Business shoes",
+        "imageUrl" : ""
+    },
+
+    {
+        "id" : 8,
+        "name" : "Flip flops",
+        "imageUrl" : ""
+    },
+
+    {
+        "id" : 9,
+        "name" : "Shorts",
+        "imageUrl" : ""
+    },
+
+    {
+        "id" : 10,
+        "name" : "Sport shoes",
+        "imageUrl" : ""
+    },
+    
+    {
+        "id" : 11,
+        "name" : "Vest",
+        "imageUrl" : ""
+    }
+]
+
+
+
